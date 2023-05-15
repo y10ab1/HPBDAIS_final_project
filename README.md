@@ -22,11 +22,11 @@ This project aims to develop a system for simulating different fMRI parcellation
    - Activate the Conda environment using the following command:
      - On Linux and macOS:
        ```
-       conda activate myenv
+       conda activate fmri
        ```
      - On Windows:
        ```
-       activate myenv
+       activate fmri
        ```
 
 4. **Install additional packages using pip:**
