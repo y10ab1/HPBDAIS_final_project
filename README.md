@@ -24,10 +24,6 @@ This project aims to develop a system for simulating different fMRI parcellation
        ```
        conda activate fmri
        ```
-     - On Windows:
-       ```
-       activate fmri
-       ```
 
 4. **Install additional packages using pip:**
 
