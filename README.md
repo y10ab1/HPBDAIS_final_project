@@ -11,7 +11,7 @@ This project aims to develop a system for simulating different fMRI parcellation
    - Follow the official Conda installation instructions for your operating system.
 
 2. **Create the Conda environment:**
-
+  
    - Run the following command to create the environment:
      ```
      conda env create -f environment.yml
@@ -19,7 +19,7 @@ This project aims to develop a system for simulating different fMRI parcellation
 
 3. **Activate the Conda environment:**
 
-  - On Linux and macOS:
+   - On Linux and macOS:
     ```
     conda activate fmri
     ```
